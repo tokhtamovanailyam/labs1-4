@@ -1,0 +1,55 @@
+body {background-color: aliceblue;}
+h1 {color: purple;
+font-size: 40px;
+text-align: center;
+border: 10px solid gray;
+padding: 15px;}
+p {color: darkorange;
+font-family: "Georgia", Times, serif;
+font-size: 14px;}
+.main_content {
+  color: brown;} 
+.aside_content p {color: goldenrod;
+ text-align: justify;}
+.menu {background-color: midnightblue;} 
+#requirements {
+color: darkkhaki; font-size: 16pt;}
+a:link {
+  color: cadetblue;
+}
+a:visited {
+  color: burlywood;
+}
+a:hover {
+  color: yellow;
+}
+a:active {
+  color: darkmagenta;
+}
+h2 {
+  text-decoration-line: underline;
+  text-decoration-thickness: 20%;
+}
+
+h3 {
+  font-family: "Copperplate", Papyrus, fantasy;
+  font-size: 20px;
+}
+
+li {
+  font-family:'Trebuchet MS', sans-serif;
+}
+.banner {background-image: url("chi.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#task img {border-radius: 9px;}
+#submission img {border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: auto;
+}
+ 
+
