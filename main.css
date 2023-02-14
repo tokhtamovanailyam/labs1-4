@@ -110,6 +110,9 @@ li {
     h1 {
         width: 100%;
     }
+    .banner {
+  height: 50px;
+  width: 100%;}
     .first {
       order: 1;
       width: 50%;
@@ -146,6 +149,9 @@ li {
   h1 {
     width: 100%;
   }
+ .banner {
+  height: 150px;
+  width: 100%;}
   .first {
     order: 1;
     width: 75%;
