@@ -194,6 +194,7 @@ li {
     }
     #requirements
     ul {column-count: 3;}
+    .menu {column-count: 2;}
     .first {
       order: 1;
       width: 50%;
