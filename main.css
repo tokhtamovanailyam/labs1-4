@@ -1,4 +1,5 @@
 body {background-color: aliceblue;}
+.menu {font-size: 20px}
 h1 {color: purple;
 font-size: 40px;
 text-align: center;
@@ -6,7 +7,7 @@ border: 10px solid gray;
 padding: 15px;}
 p {color: darkorange;
 font-family: "Georgia", Times, serif;
-font-size: 14px;}
+font-size: 20px;}
 .main_content {
   color: #2471A3;} 
 .aside_content p {color: goldenrod;
@@ -50,7 +51,8 @@ li {
 #submission img {border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: auto;
+  width: 40em;
+  height: auto;
 }
  
 .grid-container {
@@ -111,7 +113,7 @@ li {
         width: 100%;
     }
     .banner {
-  height: 50px;
+  height: 5em;
   width: 100%;}
     .first {
       order: 1;
@@ -133,6 +135,9 @@ li {
         width: 100%;
         height: 100%;
     }
+    #task
+    img {width: 100%;
+      height: 100%;}
     .grid-container{
         background-color: #F4ECF7;
         display: flow-root;
@@ -149,8 +154,10 @@ li {
   h1 {
     width: 100%;
   }
+  #requirements
+  ul {column-count: 2;}
  .banner {
-  height: 150px;
+  height: 15em;
   width: 100%;}
   .first {
     order: 1;
@@ -185,6 +192,8 @@ li {
     h1 {
         width: 100%;
     }
+    #requirements
+    ul {column-count: 3;}
     .first {
       order: 1;
       width: 50%;
