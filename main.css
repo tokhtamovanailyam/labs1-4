@@ -57,10 +57,6 @@ li {
  
 .grid-container {
       display: grid;
-      grid-template-areas:
-      'task task task task task task task task task task task task'
-      'requirments requirments requirments requirments requirments requirments requirments requirments requirments'
-      'submission submission submission grading grading grading';
       gap: 1em;
       background-color: palevioletred;
       padding: 00.53em;
@@ -157,7 +153,7 @@ li {
   #requirements
   ul {column-count: 2;}
  .banner {
-  height: 15em;
+  height: 8em;
   width: 100%;}
   .first {
     order: 1;
